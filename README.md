@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Lucas%20Palmaccio&fontSize=70&fontAlignY=35&desc=Product%20Owner%20%7C%20Dev%20em%20Evolução&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=200&section=header&text=Lucas%20Palmaccio&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Product%20Owner%20%7C%20ADS%20Fatec%20Ipiranga&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner+@+Evertec;ADS+Student+@+Fatec+Ipiranga;Agile+Enthusiast+%7C+PSPO+Focus;Java+%7C+C+%7C+Python+%7C+SQL;Driven+by+Innovation+and+Coffee+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner;ADS+Student+@+Fatec+Ipiranga;Agile+Enthusiast+%7C+PSPO+Focus;Java+%7C+C+%7C+Python+%7C+SQL;Driven+by+Innovation+and+Coffee+☕" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,10 +25,10 @@
 
 Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negócios e Tecnologia.
 
-- 💼 Atualmente atuo como **Product Owner** na **Evertec**, trabalhando com soluções para o mercado financeiro.
+- 💼 Atualmente atuo como **Product Owner**, trabalhando com soluções para o mercado financeiro.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Ipiranga** (Formatura: Dez/2027).
 - 🎯 Focado em metodologias ágeis (**Scrum**) e certificações como **PSPO**.
-- 💻 No código, tenho interesse especial em **Java** e **C**, explorando também desenvolvimento de ferramentas para automação e testes (como mock servers).
+- 💻 No código, tenho interesse especial em **Java** e **C**, explorando também automação e ferramentas de teste.
 - ☕ Movido a café e entusiasta de tecnologia automotiva.
 
 ---
@@ -63,12 +63,12 @@ Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negó
 ### 📈 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=midnight-dusk&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=midnight-dusk&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true"/>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspalmaccio&theme=midnight-dusk&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspalmaccio&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -81,5 +81,5 @@ Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negó
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=100&section=footer"/>
 </div>
