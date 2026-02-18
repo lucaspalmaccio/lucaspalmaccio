@@ -28,6 +28,7 @@ Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negó
 - 💼 Atualmente atuo como **Product Owner**, trabalhando com soluções para o mercado financeiro.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Ipiranga** (Formatura: Dez/2027).
 - 🎯 Focado em metodologias ágeis (**Scrum**) e certificações como **PSPO**.
+- 🇺🇸 **Inglês Avançado (C1)** | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
 - 💻 No código, tenho interesse especial em **Java** e **C**, explorando também automação e ferramentas de teste.
 - ☕ Movido a café e entusiasta de tecnologia automotiva.
 
