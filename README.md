@@ -59,8 +59,8 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Lucas Palmaccio Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&hide_border=true" alt="Lucas Palmaccio Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
