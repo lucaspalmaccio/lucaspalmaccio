@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=220&section=header&text=Lucas%20Palmaccio&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Product%20Owner%20%7C%20Tech%20Professional&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner;Agile+Expert+%7C+Scrum;Java+%7C+C+%7C+Python+%7C+SQL;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner;Agile+Expert+%7C+Scrum;Java+%7C+C%23+%7C+Python+%7C+R;AWS+%7C+Kafka+%7C+SQL;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -27,7 +27,7 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 * 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (**Fatec Ipiranga**).
 * 🎯 **Especialidades:** Gestão Ágil (**Scrum**), priorização de backlog e alinhamento de stakeholders.
 * 🇺🇸 **Idioma:** Inglês Avançado (**C1**) | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
-* 💻 **Tech Stack:** Conhecimento prático em **Java**, **C** e **SQL** para facilitar a comunicação técnica com times de engenharia.
+* 💻 **Tech Stack:** Conhecimento prático em **Java**, **C#** e **Cloud** para facilitar a comunicação técnica com times de engenharia.
 
 ---
 
@@ -47,10 +47,15 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 #### 📊 Desenvolvimento & Análise
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  
+  <br/>
+  
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
