@@ -27,7 +27,7 @@ Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negó
 
 - 💼 Atualmente atuo como **Product Owner**, trabalhando com soluções para o mercado financeiro.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Ipiranga** (Formatura: Dez/2027).
-- 🎯 Focado em metodologias ágeis (**Scrum**) e certificações como **PSPO**.
+- 🎯 Focado em metodologias ágeis (**Scrum**) e certificações como **CSPO**.
 - 🇺🇸 **Inglês Avançado (C1)** | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
 - 💻 No código, tenho interesse especial em **Java** e **C**, explorando também automação e ferramentas de teste.
 - ☕ Movido a café e entusiasta de tecnologia automotiva.
@@ -64,19 +64,8 @@ Olá! Sou o **Lucas**, um profissional apaixonado pela intersecção entre Negó
 ### 📈 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspalmaccio&theme=radical&hide_border=true" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucaspalmaccio/lucaspalmaccio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
