@@ -23,7 +23,7 @@
 
 Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte estratégica entre negócios e desenvolvimento de software.
 
-* 💼 **Atuação:** Product Owner focado em entrega de valor e soluções eficientes.
+* 💼 **Atuação:** Product Owner focado em entrega de valor e soluções eficientes no mercado financeiro.
 * 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (**Fatec Ipiranga**).
 * 🎯 **Especialidades:** Gestão Ágil (**Scrum**), priorização de backlog e alinhamento de stakeholders.
 * 🇺🇸 **Idioma:** Inglês Avançado (**C1**) | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
