@@ -56,16 +56,13 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 
 ---
 
-### 📈 GitHub Analytics
+### 🐍 Minha Jornada de Código
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&hide_border=true" alt="Lucas Palmaccio Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaspalmaccio&label=Profile%20Views&color=3382F7&style=flat-square" alt="lucaspalmaccio" />
+  
+  <br/><br/>
+  
   <img src="https://raw.githubusercontent.com/lucaspalmaccio/lucaspalmaccio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
