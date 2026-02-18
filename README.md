@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3382F7&height=220&section=header&text=Lucas%20Palmaccio&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Product%20Owner%20%7C%20Tech%20Professional&descAlignY=60&descAlign=50&descColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner;Agile+Expert+%7C+PSPO;Java+%7C+C+%7C+Python+%7C+SQL;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=500&lines=Product+Owner;Agile+Expert+%7C+Scrum;Java+%7C+C+%7C+Python+%7C+SQL;Tech+Enthusiast+%7C+Innovation" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,7 +25,7 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 
 * 💼 **Atuação:** Product Owner focado em entrega de valor e soluções eficientes.
 * 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (**Fatec Ipiranga**).
-* 🎯 **Especialidades:** Gestão Ágil (**Scrum**, **PSPO**), priorização de backlog e alinhamento de stakeholders.
+* 🎯 **Especialidades:** Gestão Ágil (**Scrum**), priorização de backlog e alinhamento de stakeholders.
 * 🇺🇸 **Idioma:** Inglês Avançado (**C1**) | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
 * 💻 **Tech Stack:** Conhecimento prático em **Java**, **C** e **SQL** para facilitar a comunicação técnica com times de engenharia.
 
@@ -60,7 +60,7 @@ Olá! Sou **Lucas**, Product Owner com forte base técnica, atuando na ponte est
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmaccio&show_icons=true&theme=radical&hide_border=true" alt="Lucas Palmaccio Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmaccio&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
 <br/>
