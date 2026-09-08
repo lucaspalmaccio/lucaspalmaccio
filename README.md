@@ -24,7 +24,7 @@ Olá! Sou **Lucas**, Product Owner atuando no **mercado financeiro**, com forte 
 * 🧠 **Domínio Técnico:** **Java**, **APIs REST**, **mensageria** (Kafka/RabbitMQ) e **arquitetura de sistemas** (microsserviços, integrações e sistemas distribuídos).
 * 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (**Fatec Ipiranga**).
 * 🎯 **Especialidades:** Gestão Ágil (**Scrum**), definição de contratos de API, desenho de fluxos de integração e arquitetura de soluções para produtos financeiros.
-* 🇺🇸 **Idioma:** Inglês Avançado (**C1**) | [Ver Certificado EF SET](https://cert.efset.org/kN6h4t)
+* 🇺🇸 **Idioma:** Inglês Fluente (**C2**) | [Ver Certificado EF SET](https://cert.efset.org/pt/kN6h4t)
 
 ---
 
